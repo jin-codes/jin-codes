@@ -23,7 +23,3 @@ Building **Pebblic**: a small local decision model for agents, running on Mac wi
 - 💻 **AI coding**: Turning ideas into working software quickly, together with AI
 - 📈 **Investing & economics**: Reading the flow of markets and money
 - 📚 **Humanities**: People, stories and the history of ideas
-
-## 📈 Stats
-
-![jin-codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-codes&show_icons=true&theme=transparent)
