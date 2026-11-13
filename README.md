@@ -15,7 +15,7 @@ Building **Pebblic**: a small local decision model for agents, running on Mac wi
 
 ## 🔗 Links
 
-- 🌐 [stories-lab.com](https://stories-lab.com)
+- 🌐 [stories-lab](https://stories-lab.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jin-dev/)
 
 ## 🧭 Interests
