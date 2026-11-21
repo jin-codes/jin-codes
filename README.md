@@ -13,11 +13,6 @@ Building **Pebblic**: a small local decision model for agents, running on Mac wi
 - 📒 [**Porticific**](https://github.com/jin-codes/porticific-public) ([site](https://porticific.vercel.app/en)): A portfolio journal with buy theses, daily analysis and MCP tools. Built with Next.js + Supabase.
 - 🪨 **Pebblic** (in progress): A small local decision model for agents
 
-<p>
-  <a href="https://github.com/jin-codes/verilix-public"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=jin-codes&repo=verilix-public" alt="Verilix" width="48%" /></a>
-  <a href="https://github.com/jin-codes/porticific-public"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=jin-codes&repo=porticific-public" alt="Porticific" width="48%" /></a>
-</p>
-
 ## 🔗 Links
 
 - 🌐 [stories-lab](https://stories-lab.com)
