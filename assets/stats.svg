@@ -24,10 +24,10 @@
 <text x="30" y="46" class="fg title">jin-codes (Jin)</text>
 <text x="870" y="46" text-anchor="end" class="muted small">Updated 2026-11-21</text>
 <rect x="30" y="70" width="158.4" height="84" rx="8" class="tile"/>
-<text x="44" y="102" class="fg big">909</text>
+<text x="44" y="102" class="fg big">916</text>
 <text x="44" y="124" class="muted small">Contributions (1y)</text>
 <rect x="200.4" y="70" width="158.4" height="84" rx="8" class="tile"/>
-<text x="214.4" y="102" class="fg big">860</text>
+<text x="214.4" y="102" class="fg big">867</text>
 <text x="214.4" y="124" class="muted small">Commits (all time)</text>
 <rect x="370.8" y="70" width="158.4" height="84" rx="8" class="tile"/>
 <text x="384.8" y="102" class="fg big">25</text>
@@ -40,21 +40,21 @@
 <text x="725.6" y="102" class="fg big">7</text>
 <text x="725.6" y="124" class="muted small">Stars</text>
 <text x="30" y="192" class="fg h2">Languages</text>
-<rect x="30.0" y="210" width="216.5" height="10" fill="#3178c6"/>
-<rect x="246.5" y="210" width="106.9" height="10" fill="#3572A5"/>
-<rect x="353.4" y="210" width="61.2" height="10" fill="#e34c26"/>
-<rect x="414.5" y="210" width="9.5" height="10" fill="#f1e05a"/>
-<rect x="424.0" y="210" width="4.5" height="10" fill="#F05138"/>
-<rect x="428.5" y="210" width="4.2" height="10" fill="#336790"/>
-<rect x="432.6" y="210" width="7.4" height="10" fill="#8b949e"/>
+<rect x="30.0" y="210" width="215.3" height="10" fill="#3178c6"/>
+<rect x="245.3" y="210" width="106.9" height="10" fill="#3572A5"/>
+<rect x="352.2" y="210" width="61.3" height="10" fill="#e34c26"/>
+<rect x="413.5" y="210" width="10.4" height="10" fill="#f1e05a"/>
+<rect x="423.9" y="210" width="4.4" height="10" fill="#F05138"/>
+<rect x="428.3" y="210" width="4.1" height="10" fill="#336790"/>
+<rect x="432.5" y="210" width="7.5" height="10" fill="#8b949e"/>
 <circle cx="36" cy="245" r="6" fill="#3178c6"/>
-<text x="50" y="250" class="fg body">TypeScript <tspan class="muted">52.8%</tspan></text>
+<text x="50" y="250" class="fg body">TypeScript <tspan class="muted">52.5%</tspan></text>
 <circle cx="241" cy="245" r="6" fill="#3572A5"/>
 <text x="255" y="250" class="fg body">Python <tspan class="muted">26.1%</tspan></text>
 <circle cx="36" cy="275" r="6" fill="#e34c26"/>
-<text x="50" y="280" class="fg body">HTML <tspan class="muted">14.9%</tspan></text>
+<text x="50" y="280" class="fg body">HTML <tspan class="muted">15.0%</tspan></text>
 <circle cx="241" cy="275" r="6" fill="#f1e05a"/>
-<text x="255" y="280" class="fg body">JavaScript <tspan class="muted">2.3%</tspan></text>
+<text x="255" y="280" class="fg body">JavaScript <tspan class="muted">2.5%</tspan></text>
 <circle cx="36" cy="305" r="6" fill="#F05138"/>
 <text x="50" y="310" class="fg body">Swift <tspan class="muted">1.1%</tspan></text>
 <circle cx="241" cy="305" r="6" fill="#336790"/>
@@ -63,8 +63,8 @@
 <text x="50" y="340" class="fg body">Other <tspan class="muted">1.8%</tspan></text>
 <text x="470" y="192" class="fg h2">Activity</text>
 <text x="870" y="192" text-anchor="end" class="muted small">weekly contributions, last year</text>
-<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 322.0 L531.5 321.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 322.0 L600.8 319.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 322.0 L670.0 304.2 L677.7 322.0 L685.4 311.1 L693.1 319.0 L700.8 322.0 L708.5 322.0 L716.2 312.1 L723.8 317.0 L731.5 317.0 L739.2 310.1 L746.9 271.5 L754.6 304.2 L762.3 286.3 L770.0 309.1 L777.7 295.2 L785.4 318.0 L793.1 304.2 L800.8 302.2 L808.5 263.5 L816.2 287.3 L823.8 224.9 L831.5 212.0 L839.2 253.6 L846.9 229.8 L854.6 250.6 L862.3 270.5 L870.0 257.6 L870.0 322 L470 322 Z" class="area"/>
-<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 322.0 L531.5 321.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 322.0 L600.8 319.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 322.0 L670.0 304.2 L677.7 322.0 L685.4 311.1 L693.1 319.0 L700.8 322.0 L708.5 322.0 L716.2 312.1 L723.8 317.0 L731.5 317.0 L739.2 310.1 L746.9 271.5 L754.6 304.2 L762.3 286.3 L770.0 309.1 L777.7 295.2 L785.4 318.0 L793.1 304.2 L800.8 302.2 L808.5 263.5 L816.2 287.3 L823.8 224.9 L831.5 212.0 L839.2 253.6 L846.9 229.8 L854.6 250.6 L862.3 270.5 L870.0 257.6" class="linepath"/>
+<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 322.0 L531.5 321.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 322.0 L600.8 319.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 322.0 L670.0 304.2 L677.7 322.0 L685.4 311.1 L693.1 319.0 L700.8 322.0 L708.5 322.0 L716.2 312.1 L723.8 317.0 L731.5 317.0 L739.2 310.1 L746.9 271.5 L754.6 304.2 L762.3 286.3 L770.0 309.1 L777.7 295.2 L785.4 318.0 L793.1 304.2 L800.8 302.2 L808.5 263.5 L816.2 287.3 L823.8 224.9 L831.5 212.0 L839.2 253.6 L846.9 229.8 L854.6 249.7 L862.3 270.5 L870.0 251.6 L870.0 322 L470 322 Z" class="area"/>
+<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 322.0 L531.5 321.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 322.0 L600.8 319.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 322.0 L670.0 304.2 L677.7 322.0 L685.4 311.1 L693.1 319.0 L700.8 322.0 L708.5 322.0 L716.2 312.1 L723.8 317.0 L731.5 317.0 L739.2 310.1 L746.9 271.5 L754.6 304.2 L762.3 286.3 L770.0 309.1 L777.7 295.2 L785.4 318.0 L793.1 304.2 L800.8 302.2 L808.5 263.5 L816.2 287.3 L823.8 224.9 L831.5 212.0 L839.2 253.6 L846.9 229.8 L854.6 249.7 L862.3 270.5 L870.0 251.6" class="linepath"/>
 <line x1="470" y1="322" x2="870" y2="322" class="axis"/>
 <text x="470" y="338" class="muted tiny">2025-11</text>
 <text x="870" y="338" text-anchor="end" class="muted tiny">2026-11</text>
@@ -84,8 +84,8 @@
 <rect x="201.8" y="492.8" width="15.1" height="1.2" rx="2" class="bar"/>
 <rect x="218.9" y="475.3" width="15.1" height="18.7" rx="2" class="bar"/>
 <rect x="236.0" y="467.7" width="15.1" height="26.3" rx="2" class="bar"/>
-<rect x="253.1" y="467.1" width="15.1" height="26.9" rx="2" class="bar"/>
-<rect x="270.2" y="486.4" width="15.1" height="7.6" rx="2" class="bar"/>
+<rect x="253.1" y="466.5" width="15.1" height="27.5" rx="2" class="bar"/>
+<rect x="270.2" y="483.5" width="15.1" height="10.5" rx="2" class="bar"/>
 <rect x="287.3" y="472.4" width="15.1" height="21.6" rx="2" class="bar"/>
 <rect x="304.3" y="478.2" width="15.1" height="15.8" rx="2" class="bar"/>
 <rect x="321.4" y="451.9" width="15.1" height="42.1" rx="2" class="bar"/>
@@ -93,7 +93,7 @@
 <rect x="355.6" y="482.3" width="15.1" height="11.7" rx="2" class="bar"/>
 <rect x="372.7" y="487.0" width="15.1" height="7.0" rx="2" class="bar"/>
 <rect x="389.8" y="483.5" width="15.1" height="10.5" rx="2" class="bar"/>
-<rect x="406.8" y="455.4" width="15.1" height="38.6" rx="2" class="bar"/>
+<rect x="406.8" y="454.8" width="15.1" height="39.2" rx="2" class="bar"/>
 <rect x="423.9" y="394.0" width="15.1" height="100.0" rx="2" class="bar"/>
 <line x1="30" y1="494" x2="440" y2="494" class="axis"/>
 <text x="38.5" y="510" text-anchor="middle" class="muted tiny">0</text>
