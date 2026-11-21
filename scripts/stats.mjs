@@ -18,19 +18,31 @@ if (!TOKEN) {
 }
 
 async function gql(query, variables = {}) {
-  const res = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      Authorization: `bearer ${TOKEN}`,
-      "Content-Type": "application/json",
-      "User-Agent": "profile-stats-generator",
-    },
-    body: JSON.stringify({ query, variables }),
-  });
-  if (!res.ok) throw new Error(`GitHub API ${res.status}: ${await res.text()}`);
-  const json = await res.json();
-  if (json.errors) throw new Error(`GraphQL: ${JSON.stringify(json.errors)}`);
-  return json.data;
+  const MAX_ATTEMPTS = 4;
+  for (let attempt = 1; ; attempt++) {
+    try {
+      const res = await fetch("https://api.github.com/graphql", {
+        method: "POST",
+        headers: {
+          Authorization: `bearer ${TOKEN}`,
+          "Content-Type": "application/json",
+          "User-Agent": "profile-stats-generator",
+        },
+        body: JSON.stringify({ query, variables }),
+      });
+      if (res.status >= 500 && attempt < MAX_ATTEMPTS) throw new Error(`transient ${res.status}`);
+      if (!res.ok) throw new Error(`GitHub API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+      const json = await res.json();
+      if (json.errors) throw new Error(`GraphQL: ${JSON.stringify(json.errors)}`);
+      return json.data;
+    } catch (err) {
+      const retryable = String(err.message).startsWith("transient") || err.cause; // 5xx or network error
+      if (!retryable || attempt >= MAX_ATTEMPTS) throw err;
+      const wait = attempt * 3000;
+      console.warn(`attempt ${attempt} failed (${err.message}); retrying in ${wait / 1000}s`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+  }
 }
 
 // ---------- fetch ----------
