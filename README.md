@@ -32,19 +32,5 @@ Building **Pebblic**: a small local decision model for agents, running on Mac wi
 ## 📈 Stats
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jin-codes&theme=default" alt="Profile details" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jin-codes&theme=default" alt="Repos per language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jin-codes&theme=default" alt="Most commit language" width="48%" />
-</p>
-<p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jin-codes&layout=compact" alt="Top languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jin-codes&theme=default&utcOffset=9" alt="Productive time" width="48%" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jin-codes" alt="Contribution activity graph" width="100%" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=jin-codes&theme=default" alt="GitHub streak" />
+  <img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
 </p>
