@@ -22,7 +22,7 @@
 </style>
 <rect x="0.5" y="0.5" width="899" height="559" rx="12" class="card"/>
 <text x="30" y="46" class="fg title">jin-codes (Jin)</text>
-<text x="870" y="46" text-anchor="end" class="muted small">Updated 2026-11-21</text>
+<text x="870" y="46" text-anchor="end" class="muted small">Updated 2026-11-22</text>
 <rect x="30" y="70" width="158.4" height="84" rx="8" class="tile"/>
 <text x="44" y="102" class="fg big">916</text>
 <text x="44" y="124" class="muted small">Contributions (1y)</text>
@@ -102,7 +102,7 @@
 <text x="346.0" y="510" text-anchor="middle" class="muted tiny">18</text>
 <text x="431.5" y="510" text-anchor="middle" class="muted tiny">23</text>
 <text x="470" y="374" class="fg h2">Streak</text>
-<text x="470" y="436" class="fg big">2</text>
+<text x="470" y="436" class="fg big">0</text>
 <text x="470" y="460" class="fg body">Current streak</text>
 <text x="470" y="478" class="muted tiny">days</text>
 <text x="605" y="436" class="fg big">25</text>
