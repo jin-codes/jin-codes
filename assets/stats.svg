@@ -102,7 +102,7 @@
 <text x="346.0" y="510" text-anchor="middle" class="muted tiny">18</text>
 <text x="431.5" y="510" text-anchor="middle" class="muted tiny">23</text>
 <text x="470" y="374" class="fg h2">Streak</text>
-<text x="470" y="436" class="fg big">1</text>
+<text x="470" y="436" class="fg big">0</text>
 <text x="470" y="460" class="fg body">Current streak</text>
 <text x="470" y="478" class="muted tiny">days</text>
 <text x="605" y="436" class="fg big">25</text>
