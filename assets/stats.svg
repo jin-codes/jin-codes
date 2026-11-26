@@ -22,12 +22,12 @@
 </style>
 <rect x="0.5" y="0.5" width="899" height="559" rx="12" class="card"/>
 <text x="30" y="46" class="fg title">jin-codes (Jin)</text>
-<text x="870" y="46" text-anchor="end" class="muted small">Updated 2026-11-25</text>
+<text x="870" y="46" text-anchor="end" class="muted small">Updated 2026-11-26</text>
 <rect x="30" y="70" width="158.4" height="84" rx="8" class="tile"/>
-<text x="44" y="102" class="fg big">917</text>
+<text x="44" y="102" class="fg big">918</text>
 <text x="44" y="124" class="muted small">Contributions (1y)</text>
 <rect x="200.4" y="70" width="158.4" height="84" rx="8" class="tile"/>
-<text x="214.4" y="102" class="fg big">867</text>
+<text x="214.4" y="102" class="fg big">868</text>
 <text x="214.4" y="124" class="muted small">Commits (all time)</text>
 <rect x="370.8" y="70" width="158.4" height="84" rx="8" class="tile"/>
 <text x="384.8" y="102" class="fg big">25</text>
@@ -42,11 +42,11 @@
 <text x="30" y="192" class="fg h2">Languages</text>
 <rect x="30.0" y="210" width="213.6" height="10" fill="#3178c6"/>
 <rect x="243.6" y="210" width="106.6" height="10" fill="#3572A5"/>
-<rect x="350.3" y="210" width="63.4" height="10" fill="#e34c26"/>
+<rect x="350.2" y="210" width="63.4" height="10" fill="#e34c26"/>
 <rect x="413.6" y="210" width="10.3" height="10" fill="#f1e05a"/>
-<rect x="424.0" y="210" width="4.4" height="10" fill="#F05138"/>
-<rect x="428.4" y="210" width="4.1" height="10" fill="#336790"/>
-<rect x="432.5" y="210" width="7.5" height="10" fill="#8b949e"/>
+<rect x="423.9" y="210" width="4.4" height="10" fill="#F05138"/>
+<rect x="428.3" y="210" width="4.1" height="10" fill="#336790"/>
+<rect x="432.4" y="210" width="7.6" height="10" fill="#8b949e"/>
 <circle cx="36" cy="245" r="6" fill="#3178c6"/>
 <text x="50" y="250" class="fg body">TypeScript <tspan class="muted">52.1%</tspan></text>
 <circle cx="241" cy="245" r="6" fill="#3572A5"/>
@@ -63,16 +63,16 @@
 <text x="50" y="340" class="fg body">Other <tspan class="muted">1.8%</tspan></text>
 <text x="470" y="192" class="fg h2">Activity</text>
 <text x="870" y="192" text-anchor="end" class="muted small">weekly contributions, last year</text>
-<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 321.0 L531.5 322.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 319.0 L600.8 322.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 304.2 L670.0 322.0 L677.7 311.1 L685.4 319.0 L693.1 322.0 L700.8 322.0 L708.5 312.1 L716.2 317.0 L723.8 317.0 L731.5 310.1 L739.2 271.5 L746.9 304.2 L754.6 286.3 L762.3 309.1 L770.0 295.2 L777.7 318.0 L785.4 304.2 L793.1 302.2 L800.8 263.5 L808.5 287.3 L816.2 224.9 L823.8 212.0 L831.5 253.6 L839.2 229.8 L846.9 249.7 L854.6 270.5 L862.3 251.6 L870.0 321.0 L870.0 322 L470 322 Z" class="area"/>
-<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 321.0 L531.5 322.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 319.0 L600.8 322.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 304.2 L670.0 322.0 L677.7 311.1 L685.4 319.0 L693.1 322.0 L700.8 322.0 L708.5 312.1 L716.2 317.0 L723.8 317.0 L731.5 310.1 L739.2 271.5 L746.9 304.2 L754.6 286.3 L762.3 309.1 L770.0 295.2 L777.7 318.0 L785.4 304.2 L793.1 302.2 L800.8 263.5 L808.5 287.3 L816.2 224.9 L823.8 212.0 L831.5 253.6 L839.2 229.8 L846.9 249.7 L854.6 270.5 L862.3 251.6 L870.0 321.0" class="linepath"/>
+<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 321.0 L531.5 322.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 319.0 L600.8 322.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 304.2 L670.0 322.0 L677.7 311.1 L685.4 319.0 L693.1 322.0 L700.8 322.0 L708.5 312.1 L716.2 317.0 L723.8 317.0 L731.5 310.1 L739.2 271.5 L746.9 304.2 L754.6 286.3 L762.3 309.1 L770.0 295.2 L777.7 318.0 L785.4 304.2 L793.1 302.2 L800.8 263.5 L808.5 287.3 L816.2 224.9 L823.8 212.0 L831.5 253.6 L839.2 229.8 L846.9 249.7 L854.6 270.5 L862.3 251.6 L870.0 320.0 L870.0 322 L470 322 Z" class="area"/>
+<path d="M470.0 322.0 L477.7 322.0 L485.4 322.0 L493.1 322.0 L500.8 322.0 L508.5 322.0 L516.2 322.0 L523.8 321.0 L531.5 322.0 L539.2 322.0 L546.9 322.0 L554.6 322.0 L562.3 322.0 L570.0 322.0 L577.7 322.0 L585.4 322.0 L593.1 319.0 L600.8 322.0 L608.5 322.0 L616.2 322.0 L623.8 322.0 L631.5 322.0 L639.2 322.0 L646.9 322.0 L654.6 322.0 L662.3 304.2 L670.0 322.0 L677.7 311.1 L685.4 319.0 L693.1 322.0 L700.8 322.0 L708.5 312.1 L716.2 317.0 L723.8 317.0 L731.5 310.1 L739.2 271.5 L746.9 304.2 L754.6 286.3 L762.3 309.1 L770.0 295.2 L777.7 318.0 L785.4 304.2 L793.1 302.2 L800.8 263.5 L808.5 287.3 L816.2 224.9 L823.8 212.0 L831.5 253.6 L839.2 229.8 L846.9 249.7 L854.6 270.5 L862.3 251.6 L870.0 320.0" class="linepath"/>
 <line x1="470" y1="322" x2="870" y2="322" class="axis"/>
 <text x="470" y="338" class="muted tiny">2025-11</text>
 <text x="870" y="338" text-anchor="end" class="muted tiny">2026-11</text>
 <text x="870" y="208" text-anchor="end" class="muted tiny">peak 111/week</text>
 <text x="30" y="374" class="fg h2">Commit hours</text>
 <text x="440" y="374" text-anchor="end" class="muted small">KST, recent commits</text>
-<rect x="31.0" y="394.6" width="15.1" height="99.4" rx="2" class="bar"/>
-<rect x="48.1" y="471.2" width="15.1" height="22.8" rx="2" class="bar"/>
+<rect x="31.0" y="395.2" width="15.1" height="98.8" rx="2" class="bar"/>
+<rect x="48.1" y="471.3" width="15.1" height="22.7" rx="2" class="bar"/>
 <rect x="65.2" y="493.4" width="15.1" height="1.0" rx="2" class="bar"/>
 <rect x="82.3" y="494.0" width="15.1" height="0.0" rx="2" class="bar"/>
 <rect x="99.3" y="494.0" width="15.1" height="0.0" rx="2" class="bar"/>
@@ -82,18 +82,18 @@
 <rect x="167.7" y="492.8" width="15.1" height="1.2" rx="2" class="bar"/>
 <rect x="184.8" y="493.4" width="15.1" height="1.0" rx="2" class="bar"/>
 <rect x="201.8" y="492.8" width="15.1" height="1.2" rx="2" class="bar"/>
-<rect x="218.9" y="475.3" width="15.1" height="18.7" rx="2" class="bar"/>
-<rect x="236.0" y="467.7" width="15.1" height="26.3" rx="2" class="bar"/>
-<rect x="253.1" y="466.5" width="15.1" height="27.5" rx="2" class="bar"/>
+<rect x="218.9" y="475.4" width="15.1" height="18.6" rx="2" class="bar"/>
+<rect x="236.0" y="467.8" width="15.1" height="26.2" rx="2" class="bar"/>
+<rect x="253.1" y="466.7" width="15.1" height="27.3" rx="2" class="bar"/>
 <rect x="270.2" y="483.5" width="15.1" height="10.5" rx="2" class="bar"/>
-<rect x="287.3" y="472.4" width="15.1" height="21.6" rx="2" class="bar"/>
-<rect x="304.3" y="478.2" width="15.1" height="15.8" rx="2" class="bar"/>
-<rect x="321.4" y="451.9" width="15.1" height="42.1" rx="2" class="bar"/>
-<rect x="338.5" y="482.9" width="15.1" height="11.1" rx="2" class="bar"/>
-<rect x="355.6" y="482.3" width="15.1" height="11.7" rx="2" class="bar"/>
+<rect x="287.3" y="472.5" width="15.1" height="21.5" rx="2" class="bar"/>
+<rect x="304.3" y="478.3" width="15.1" height="15.7" rx="2" class="bar"/>
+<rect x="321.4" y="452.1" width="15.1" height="41.9" rx="2" class="bar"/>
+<rect x="338.5" y="483.0" width="15.1" height="11.0" rx="2" class="bar"/>
+<rect x="355.6" y="482.4" width="15.1" height="11.6" rx="2" class="bar"/>
 <rect x="372.7" y="487.0" width="15.1" height="7.0" rx="2" class="bar"/>
 <rect x="389.8" y="483.5" width="15.1" height="10.5" rx="2" class="bar"/>
-<rect x="406.8" y="454.8" width="15.1" height="39.2" rx="2" class="bar"/>
+<rect x="406.8" y="455.0" width="15.1" height="39.0" rx="2" class="bar"/>
 <rect x="423.9" y="394.0" width="15.1" height="100.0" rx="2" class="bar"/>
 <line x1="30" y1="494" x2="440" y2="494" class="axis"/>
 <text x="38.5" y="510" text-anchor="middle" class="muted tiny">0</text>
@@ -102,13 +102,13 @@
 <text x="346.0" y="510" text-anchor="middle" class="muted tiny">18</text>
 <text x="431.5" y="510" text-anchor="middle" class="muted tiny">23</text>
 <text x="470" y="374" class="fg h2">Streak</text>
-<text x="470" y="436" class="fg big">0</text>
+<text x="470" y="436" class="fg big">1</text>
 <text x="470" y="460" class="fg body">Current streak</text>
 <text x="470" y="478" class="muted tiny">days</text>
 <text x="605" y="436" class="fg big">25</text>
 <text x="605" y="460" class="fg body">Longest streak</text>
 <text x="605" y="478" class="muted tiny">days</text>
-<text x="740" y="436" class="fg big">99</text>
+<text x="740" y="436" class="fg big">100</text>
 <text x="740" y="460" class="fg body">Active days</text>
 <text x="740" y="478" class="muted tiny">last year</text>
 <text x="30" y="538" class="muted tiny">Includes private repositories (aggregated only). Generated by scripts/stats.mjs</text>
